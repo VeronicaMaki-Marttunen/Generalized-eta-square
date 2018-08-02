@@ -5,5 +5,5 @@ Generalized eta square appears as a better measure of effect size in designs wit
 
 The formulas for the generalized eta square and partial eta square are obtained from Recommended effect size statistics for repeated measures designs, ROGER BAKEMAN, Behavior Research Methods, 2005, 37 (3), 379-384
 
-Please reference this link if using!
+Please reference if using!
 https://github.com/VeronicaMaki-Marttunen/Generalized-eta-square.git
