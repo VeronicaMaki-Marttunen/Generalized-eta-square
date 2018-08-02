@@ -3,6 +3,6 @@ Obtain generalized eta square measure of effect size
 
 Generalized eta square appears as a better measure of effect size in designs with ANOVA, in particular with repeated measures. 
 
-To calculate it, fill the appropriate values of sum of squares in the Excel file. To know how to obtain the values, see the Word file with two examples of RM-ANOVA designs ran in SPSS. The tables are example tables from the output of SPSS. The different values to fill the Excel file can be extracted from the cells which name is indicated in red. To check that you entered the right values, the Excel file also gives the partial eta square, that should match the value given by SPSS.
-
 The formulas for the generalized eta square and partial eta square are obtained from Recommended effect size statistics for repeated measures designs, ROGER BAKEMAN, Behavior Research Methods, 2005, 37 (3), 379-384
+
+Please reference this link if using!
